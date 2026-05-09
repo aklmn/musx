@@ -1,0 +1,71 @@
+﻿Toonel Solusi Proxi Mengatasi Proyek Nawala
+
+Date: Fri, 22 Oct 2010 10:04:35 +0700
+From: deenamaku &lt;deenamaku@...&gt;
+Subject: Toonel Solusi Proxi Mengatasi Proyek Nawala
+
+
+Ini sebenarnya sebuah cara yang digunakan untuk memhemat bandwitch, 
+namun dalam kenyataannya ternyata bisa juga menjadi cara ampuh dalam 
+mengatasi pemblokiran situs oleh provider ato malah admin kantor n warnet :D
+
+Cara menggunakan aplikasi toonel.net ini sangat2 mudah sekali, cuman ada 
+3 langkah saja, 1. download dulu aplikasinya, 2. Install dan 3. Setting 
+Proxy browser anda!
+
+OK, here we go... Pertama-tama, Dee menggunakan toonel pada Windows XP 
+SP2 dan menggunakan Mozilla Firefox sebagai web browser. Selanjutnya 
+silahkan download dulu software toonel-nya disini 
+&lt;http://www.ziddu.com/download/1443280/toonel.rar.html&gt;.
+
+Extract file nya (nama file: toonel.jar) dan simpan di folder yang kamu 
+inginkan, lalu buat shortcut ke file tersebut, biar lebih gampangnya 
+buat shortcut langsung ke Start Menu atau Quick Launch toolbar yang 
+disebalah tombol [Start] Windows. Jadi apabila kita &#39;konek&#39; ke Internet, 
+kita bisa dengan cepat meng-click toonel.jar sebelum membuka web 
+browser. Sebaiknya buka dulu toonel.jar sebelum login/dial ke internet.
+Sebenarnya software ini dibuat dalam bahasa Java, jadi kita  membutuhkan 
+Java Runtime Environment (JRE) untuk menjalankannya, tetapi Dee sarankan 
+untuk mencoba dulu dengan langsung membuka toonel.jar (siapa tau JRE nya 
+udah ada di komputer kamu, jadi ga perlu repot2 -makan waktu lebih lama- 
+lagi untuk mendownload JRE yang lumyan besar ukuran filenya), tetapi 
+kalau sudah di click dan muncul windows ini (*windows cannot open this 
+file:*):
+:-P 
+&lt;http://s1.wp.com/wp-includes/images/smilies/icon_razz.gif?m=1245898219g&gt;berarti 
+JRE nya belom ada tuh... hehehe.. :D Silahkan klik disini untuk 
+meng-unduh-nya 
+&lt;http://filehippo.com/download_jre_32/download/c4512b5f4289bcbcde6da7ece7331224/&gt; 
+:-P Kalau sudah berhasil di donlot, install dulu JRE nya, kemudian 
+restart komputer kamu. Sekarang coba masuk ke Control Panel, dan kalau 
+ada icon Java disitu berarti JRE sudah terinstall dengan &#39;selamat&#39;
+Sekarang langsung kita coba saja, click kembali toonel.jar, harusnya 
+aplikasi toonel.net terbuka dengan &#39;mulus&#39; :) (lihat gambar dibawah)
+Selanjutnya buka/click tab [Mapping], dan click baris 127.0.0.1 -&gt; lihat 
+statusnya dibawahnya, apabila tertulis {running} berarti toonel sudah 
+aktif di komputer kita. Kalau belum click tombol [Apply]
+Langkah berikutnya adalah setting Proxy browser kita, apabila anda 
+menggunakan Firefox sama seperti Dee (Firefox versi 3 loh ya..), maka 
+buka Firefox nya, masuk ke menu Tools -&gt; Options, buka tab [Network] dan 
+click tombol [Settings...], maka akan muncul window berikut:
+masukkan setiing seperti contoh gambar diatas, perhatikan alamat IP & 
+port proxy yang kita masukkan harus sama dengan IP yang sudah kita 
+tentukan di toonel tadi (IP: 127.0.0.1  port :  8080). Buat pengguna 
+Internet Explorer, untuk setting Proxy, silahkan masuk ke menu Tools -&gt; 
+Internet Options, buka tab [Connections] dan click tombol [LAN 
+Settings...] (lihat gambar dibawah)
+:-P 
+&lt;http://s1.wp.com/wp-includes/images/smilies/icon_razz.gif?m=1245898219g&gt; Jangan 
+lupa setelah setting proxy, tutup dulu web browser anda. OK, sekarang 
+setelah semuanya berhasil di setting dengan baik, mari kita coba 
+aplikasi toonel ini apakah bekerja dengan semestinya dan sesuai dengan 
+harapan kita.. (menghemat pulsa/pemakaian internet kita). Silahkan 
+Login/dial ke internet, pastikan toonel sudah aktif, buka web browser 
+dan browsing ke situs pilihan anda (katakanlah http://ceritaxseru.co.nr 
+) dan perhatikan kompresi bandwith di aplikasi toonel kita (tab [Status]).
+
+Apabila sudah muncul angka2 nya, berarti.. **abrakadabra**... toonel 
+berhasil mengubah proxy anda dengan proxy luar negeri dalam hal ini 
+proxy belanda :D Dan sekarang anda bebas dari segala pemblokiran hehehehe
+
+*Buat yang mo nanya-nanya lagi add YM dee ok nih dibawah!!!*
